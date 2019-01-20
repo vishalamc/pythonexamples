@@ -1,3 +1,3 @@
-#print hello world in two lines
-print("hello",end="")
+#print hello world in same line by using end
+print("hello",end=" ")
 print("world")
