@@ -4,5 +4,5 @@ Situation based examples:
 3.Generate electricity bill from the following conditions: 
 Condition 1. If meter reading is more then 100 charagble amount will be 6.95 Rs per unit.
 Condition 2. If meter reading is less then 100 charagble amount will be 5.95 Rs per unit.
-4. LPU CGPA/Percentage Calculator
+4. CGPA/Percentage Calculator
 5. Employee NetSalary Calculation
