@@ -1,0 +1,5 @@
+print("enter item")
+list=input().split(",")
+print(list)
+t=tuple(list)
+print(t)
