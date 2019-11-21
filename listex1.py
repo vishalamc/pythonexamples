@@ -1,4 +1,3 @@
-values = input("Input some comma seprated numbers : ")
-list = values.split(",")
-print('List : ',list)
-
+list1=["Rajan", "Sakil","Rohit"]
+if "Rohit" in list1:
+  print("Rohit found")

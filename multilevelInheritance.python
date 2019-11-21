@@ -1,0 +1,20 @@
+class faculty:
+  salary=30000
+  def disp1(self):
+    print("Faculty")
+class science(faculty):
+  bonus=3000
+  
+  def disp2(self):
+    total=salary+bonus
+    print("Science faculty :",total)
+class computer(science):
+  allowance=1000
+  def disp2(self):
+    total2=salary+bonus+allowance
+    print("Computer faculty :",total2)
+c=computer()
+c.disp1()
+c.disp2()
+c.disp3()
+   

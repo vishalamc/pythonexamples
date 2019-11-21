@@ -1,0 +1,5 @@
+file1=open("d:/hello.txt","r")
+file1.seek(4)
+file1.seek(0,2)
+print(file1.readline())
+file1.close()

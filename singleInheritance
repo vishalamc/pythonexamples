@@ -1,0 +1,11 @@
+class Bank:
+ def rate():
+  print("rate of I is 5%")
+class Customer(Bank):
+  def transaction():
+   print("transaction")
+
+c=Customer
+c.rate()
+c.transaction()
+
